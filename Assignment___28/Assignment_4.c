@@ -1,0 +1,45 @@
+
+
+#include<stdio.h>
+#include<unistd.h>
+#include<fcntl.h>
+#include<string.h>
+
+
+int main()
+{
+    int fd = 0;
+    char Fname[20] = {'\0'};
+    char Buffer[20] = {'\0'};
+    int iRet = 0, iSum = 0;
+
+
+
+    printf("Enter File name that you want to open : ");
+    scanf("%s",Fname);
+
+   
+    fd = open(Fname,O_RDONLY);
+
+    if(fd == -1)
+    {
+        printf("Unable to open File ");
+        return -1;
+    }
+    else
+    {
+        while((iRet = read(fd , Buffer, sizeof(Buffer))) != 0 )
+        {
+           
+           iSum = iSum + iRet;
+           
+        }
+        printf("Sizeof file : %d bytes",iSum);cx 
+        
+        close(fd);
+    }
+
+
+
+    return 0 ;
+}
