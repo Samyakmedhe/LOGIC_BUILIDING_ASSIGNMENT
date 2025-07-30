@@ -8,9 +8,14 @@
 
 ## 📘 About the Repository
 
-This repository contains a series of **logic-building assignments** developed using **C, C++, and Java**. It is designed to enhance problem-solving skills, strengthen algorithmic thinking, and build a strong programming foundation for **interviews, competitive coding, and academic practice**.
+This repository contains a series of **logic-building assignments** developed using **C, C++, and Java**.  
+It is designed to enhance:
 
-Each assignment contains hand-written programs solving problems like number patterns, recursion, array processing, string manipulation, and more.
+- 🧠 Problem-solving skills  
+- 🧩 Algorithmic thinking  
+- 💡 Programming foundation for interviews, competitive coding, and academics
+
+Each assignment includes hand-written programs solving real-world logic problems like number patterns, recursion, arrays, strings, and more.
 
 ---
 
@@ -23,7 +28,6 @@ LOGIC_BUILDING_ASSIGNMENT/
 ├── Assignment_3/
 ├── ...
 └── Assignment_14/
-
 Each Assignment_x folder includes:
 : One or more .c, .cpp, or .java files.
 : Logical problems with increasing complexity.
