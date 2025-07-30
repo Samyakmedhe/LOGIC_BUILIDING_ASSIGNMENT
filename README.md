@@ -22,12 +22,12 @@ Each assignment includes hand-written programs solving real-world logic problems
 ## 📁 Folder Structure
 
   ```bash
-    LOGIC_BUILDING_ASSIGNMENT/
-    ├── Assignment_1/
-    ├── Assignment_2/
-    ├── Assignment_3/
-    ├── ...
-    └── Assignment_14/
+  LOGIC_BUILDING_ASSIGNMENT/
+  ├── Assignment_1/
+  ├── Assignment_2/
+  ├── Assignment_3/
+  ├── ...
+  └── Assignment_14/
 
 
 Each Assignment_x folder includes:
