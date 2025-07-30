@@ -36,7 +36,7 @@ Each Assignment_x folder includes:
 : Self-contained and compiled independently.
 
 
-# 💻 Languages Used
+### 💻 Languages Used
 
 C	
 Java	
