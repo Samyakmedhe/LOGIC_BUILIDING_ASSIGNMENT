@@ -68,37 +68,26 @@ Each `Assignment_x` folder includes:
 
 ## 🧪 How to Run
 
-```bash
-# ---------------------------------------
-# 📦 How to Compile and Run Assignments
-# ---------------------------------------
+  ```bash
+  ---------------------------------------
+  📦 How to Compile and Run Assignments
+  ---------------------------------------
 
-# ✅ For C files
-gcc filename.c -o output
-./output
+  ✅ For C files
+  gcc filename.c -o output
+  ./output
 
-# ✅ For C++ files
-g++ filename.cpp -o output
-./output
+  ✅ For C++ files
+  g++ filename.cpp -o output
+  ./output
 
-# ✅ For Java files
-javac filename.java
-java filename
+  ✅ For Java files
+  javac filename.java
+  java filename
 
-# 📝 Notes:
-# - Ensure GCC, G++ and Java JDK are installed on your machine.
-# - Use 'cd Assignment_X' to go into the folder before compiling.
-# - Each file is self-contained and runnable individually.
+  📝 Notes:
+  :  Ensure GCC, G++ and Java JDK are installed on your machine.
+  :  Use 'cd Assignment_X' to go into the folder before compiling.
+  :  Each file is self-contained and runnable individually.
 
-
-### ✅ Separate Author Section (Outside of the Code Block)
-
-```markdown
 ---
-
-## 👨‍💻 Author
-
-**Samyak Kailas Medhe**  
-🔹 Developer | Logic Builder | DSA Enthusiast  
-🔹 Special Interest: Linked Lists, Trees, Algorithms  
-🔹 GitHub: [@Samyakmedhe](https://github.com/Samyakmedhe)
