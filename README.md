@@ -35,8 +35,8 @@ Each Assignment_x folder includes:
 : Logical problems with increasing complexity.
 : Self-contained and compiled independently.
 
-```bash
-💻 Languages Used
+
+# 💻 Languages Used
 
 C	
 Java	
